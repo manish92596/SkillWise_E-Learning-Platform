@@ -102,9 +102,9 @@ const Checkout = ({ isLoggedIn }) => {
           }
         },
         prefill: {
-          name: "",
-          email: "hrajput0322@gmail.com",
-          contact: "8630875700",
+          name: "Manish kumar",
+          email: "manishkumar92596@gmail.com",
+          contact: "9877094930",
         },
         notes: {
           address: "Skillwise Corporate Office",
