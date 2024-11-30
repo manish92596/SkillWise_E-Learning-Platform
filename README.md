@@ -1,3 +1,7 @@
+![skillwise](https://github.com/user-attachments/assets/2a196dfb-74ab-4fc9-ace0-5109a0e3ab80)
+
+</br>
+
 [Software Requirement Specification document](https://github.com/user-attachments/files/16434184/Software.Requirement.Specification.document.pdf)
 
 ## Setup and Installation
